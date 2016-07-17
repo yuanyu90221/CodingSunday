@@ -22,6 +22,6 @@
 
 ## 加入telegram: https://telegram.me/web_tutor
 為什麼用 telegram? 因為主辦小弟的手機是 i4s，不論是 line, fb message, slack .. 的開啟速度都非常慢 XD
-一定要加入的原因是，有人幫你開門 ..!!
+一定要加入的原因是，被關在門外時，有人可以幫你開門 ..!!
 
 ![alt tag](https://github.com/amazing-tutor/CodingSunday/blob/master/CodingSunday.jpg)
