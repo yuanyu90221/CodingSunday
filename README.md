@@ -16,7 +16,8 @@
 
 ### 為什麼要辦這活動??
 1. 找人在假日陪我加班、做side project、試試新的套件、看相關的 video ...
-2. 雖然主辦小弟我不是一位大大，仍希望對技術上的晚輩能給些幫助，所以在最後特別留一段時間做code-review或討論
+2. 雖然主辦小弟我不是一位大大，仍希望對技術上的晚輩能給些幫助，所以在最後特別留一段時間做code-review或討論(也希望前輩們沒事能 前來指點指點一下 ^^)
+3. 不敢說自己很會寫 code，但努力營造個讓自己能一直進步的環境 
 
 [我要參加Coding Sunday](https://github.com/amazing-tutor/CodingSunday/issues)
 
