@@ -12,11 +12,16 @@
 * 請不要打擾他人
 
 ##### 17:00 ~ 18:00 Tutor time
-* 與現場任何人討論你的程式，互相code-review，協助他人把程式碼寫得更好!
+* 與現場任何人討論你的程式、架構，或互相code-review，協助他人把程式碼寫得更好!
 
 ### 為什麼要辦這活動??
-1. 找人在假日陪我加班、做side project、練習新技術
-2. 學了一年 ruby on rails，開了兩次職缺面試了許多人後，雖然不是一位大大，仍希望對技術上的晚輩能給些幫助，讓彼此成長得更快
+1. 找人在假日陪我加班、做side project、試試新的套件、看相關的 video ...
+2. 雖然主辦小弟我不是一位大大，仍希望對技術上的晚輩能給些幫助，所以在最後特別留一段時間做code-review或討論
 
 [我要參加Coding Sunday](https://github.com/amazing-tutor/CodingSunday/issues)
+
+## 加入telegram: https://telegram.me/web_tutor
+為什麼用 telegram? 因為主辦小弟的手機是 i4s，不論是 line, fb message, slack .. 的開啟速度都非常慢 XD
+一定要加入的原因是，遲到的話才能人幫你開門 ..!!
+
 ![alt tag](https://github.com/amazing-tutor/CodingSunday/blob/master/CodingSunday.jpg)
