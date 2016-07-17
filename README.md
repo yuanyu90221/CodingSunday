@@ -4,7 +4,7 @@
 
 本活動非每週日都舉辦，[場次和報名請點擊這裡，請選擇場次並回覆__+1__即可](https://github.com/amazing-tutor/CodingSunday/issues)
 
-有舒服的人體工學椅、免費冷氣、 .. 
+有舒服的人體工學椅、免費冷氣、 .. [_點我看環境_](https://www.google.com.tw/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwiCkfWE4frNAhXGtpQKHZCzB0EQjRwIBw&url=http%3A%2F%2Fwww.innosquare.economic.ntpc.net.tw%2Fsite%2Fabout%2Finfo%2Fdisplay%2F-1%2F%3Fid%3D15&psig=AFQjCNH1GaWn8a2iDc4-7OVCQ-IZUdXajQ&ust=1468853813734004)
 
 你陪我 coding，我幫你 code-review
 
