@@ -2,7 +2,7 @@
 
 週日到新北創力坊一起 Coding 吧!! (10:00 ~ 18:00)
 
-本活動非每週日都舉辦，[場次和報名請點擊這裡，請選擇場次並回覆__+1__即可](https://github.com/amazing-tutor/CodingSunday/issues)
+本活動非每週日都舉辦，[場次和報名請點擊這裡，請選擇場次並回覆『__+1__ RoR or 慣用語言』即可](https://github.com/amazing-tutor/CodingSunday/issues)
 
 有舒服的人體工學椅、免費冷氣、 .. [_點我看環境_](http://www.innosquare.economic.ntpc.net.tw/site/upload/editor/%E7%A9%BA%E9%96%93%E7%92%B0%E5%A2%83/8.%E5%89%B5%E8%A6%8B%E8%BC%AA%E5%94%B1%E5%8D%80(Meeting%20Zone)_2.jpg)
 
