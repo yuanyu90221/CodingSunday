@@ -1,5 +1,6 @@
 # Coding Sunday with Tutor
 週日到新北創力坊一起 Coding 吧!! (10:00 ~ 18:00)
+本活動非每週日都舉辦，[場次和報名請點擊這裡，選擇場次回覆+1即可](https://github.com/amazing-tutor/CodingSunday/issues)
 
 有舒服的人體工學椅、免費冷氣、 .. 
 
@@ -15,6 +16,5 @@
 1. 找人在假日陪我加班、做side project、練習新技術
 2. 學了一年 ruby on rails，開了兩次職缺面試了許多人後，雖然不是一位大大，仍希望對技術上的晚輩能給些幫助，讓彼此成長得更快
 
-![alt tag](https://github.com/amazing-tutor/CodingSunday/blob/master/CodingSunday.jpg)
-
 [我要參加Coding Sunday](https://github.com/amazing-tutor/CodingSunday/issues)
+![alt tag](https://github.com/amazing-tutor/CodingSunday/blob/master/CodingSunday.jpg)
